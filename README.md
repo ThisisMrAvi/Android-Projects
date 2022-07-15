@@ -1,2 +1,2 @@
 # Android Projects
- I will be uploading my Android studio prjects here...
+ All of my Android studio projects are here.
